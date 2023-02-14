@@ -1,0 +1,105 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+    font-family: Urbanist, sans-serif;
+}
+body{
+    background-color:lightgrey;
+}
+.navbar-brand{
+     color:black;
+     font-weight: bold;
+     font-size: 30px;
+     letter-spacing: 2px;
+     font-family: Urbanist, sans-serif;
+     text-transform: uppercase;
+     padding-left: 12px;
+}
+.nav-item{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Urbanist, sans-serif;
+    padding-right: 25px;
+    letter-spacing: 1px;
+}
+span{
+    color:black;
+    font-size:20px;
+}
+.btn {
+    background:orange;
+    border: none;
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+  }
+.btn:hover{
+    background:white;
+
+}
+a{
+    color:#fff;
+}
+#services{
+    margin-top: 50px;
+}
+.services .card-body i{
+    font-size: 50px;
+    font-family: Urbanist, sans-serif;
+    
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.card-title{
+    font-family: Urbanist, sans-serif;
+}
+.lead{
+    font-family: Urbanist, sans-serif;
+}
+li{
+    list-style: none;
+}
+.card-container {
+    margin: 50px;
+    background:rgb(33, 32, 32);
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
+    color: #b3b8cd;
+    text-align: center;
+    width:auto;
+    padding: 20px;
+    
+    
+
+}
+
+.round {
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 7px;
+    width:150px;
+    
+
+}
+.name-container {
+    margin: 10px 0;
+}
+.firstName{
+    color:#fff;
+}
+.lastName {
+    color:#fff;
+
+}
+.email{
+    color:#fff;
+}
